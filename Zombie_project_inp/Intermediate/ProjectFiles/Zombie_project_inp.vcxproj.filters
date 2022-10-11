@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Zombie_project_inp.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1A12E722-84C9-4965-9886-FAB10A82ABA1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Zombie_project_inp.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Zombie_project_inpEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{43CEF29E-806F-4177-A5F1-2CB65CD429EC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Zombie_project_inp">
+      <UniqueIdentifier>{5E83613D-471D-4563-95DC-8CE992756763}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Zombie_project_inp\Zombie_project_inp.Build.cs">
+      <Filter>Source\Zombie_project_inp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Zombie_project_inp\Zombie_project_inp.cpp">
+      <Filter>Source\Zombie_project_inp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Zombie_project_inp\Zombie_project_inp.h">
+      <Filter>Source\Zombie_project_inp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Zombie_project_inp\Zombie_project_inpGameModeBase.cpp">
+      <Filter>Source\Zombie_project_inp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Zombie_project_inp\Zombie_project_inpGameModeBase.h">
+      <Filter>Source\Zombie_project_inp</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

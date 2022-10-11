@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Zombie_project_inp.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\maxim\Desktop\INP\Cours\Langues\Zombie project\Zombie-project-inp\Zombie_project_inp\Intermediate\Build\Win64\Zombie_project_inpEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\maxim\Desktop\INP\Cours\Langues\Zombie project\Zombie-project-inp\Zombie_project_inp\Intermediate\Build\Win64\UE4Editor\Development\Zombie_project_inp\Zombie_project_inp.cpp.obj"
+"C:\Users\maxim\Desktop\INP\Cours\Langues\Zombie project\Zombie-project-inp\Zombie_project_inp\Intermediate\Build\Win64\UE4Editor\Development\Zombie_project_inp\Zombie_project_inpGameModeBase.cpp.obj"
+"C:\Users\maxim\Desktop\INP\Cours\Langues\Zombie project\Zombie-project-inp\Zombie_project_inp\Intermediate\Build\Win64\UE4Editor\Development\Zombie_project_inp\Zombie_project_inp.init.gen.cpp.obj"
+"C:\Users\maxim\Desktop\INP\Cours\Langues\Zombie project\Zombie-project-inp\Zombie_project_inp\Intermediate\Build\Win64\UE4Editor\Development\Zombie_project_inp\Zombie_project_inpGameModeBase.gen.cpp.obj"
+"C:\Users\maxim\Desktop\INP\Cours\Langues\Zombie project\Zombie-project-inp\Zombie_project_inp\Intermediate\Build\Win64\UE4Editor\Development\Zombie_project_inp\Default.rc2.res"
+/OUT:"C:\Users\maxim\Desktop\INP\Cours\Langues\Zombie project\Zombie-project-inp\Zombie_project_inp\Intermediate\Build\Win64\UE4Editor\Development\Zombie_project_inp\UE4Editor-Zombie_project_inp.lib"
