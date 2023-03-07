@@ -1,0 +1,7 @@
+C:\Users\maxim\Desktop\INP\Cours\Langues\Zombie project\Zombie-project-inp\Zombie_project_inp\Intermediate\Build\Win64\UE4\Development\Zombie_project_inp\Definitions.Zombie_project_inp.h
+C:\Users\maxim\Desktop\INP\Cours\Langues\Zombie project\Zombie-project-inp\Zombie_project_inp\Source\Zombie_project_inp\Zombie_project_inpGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameModeBase.generated.h
+C:\Users\maxim\Desktop\INP\Cours\Langues\Zombie project\Zombie-project-inp\Zombie_project_inp\Intermediate\Build\Win64\UE4\Inc\Zombie_project_inp\Zombie_project_inpGameModeBase.generated.h
